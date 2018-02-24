@@ -7,6 +7,20 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/minkjs/mink.base/badge.svg?targetFile=package.json)](https://snyk.io/test/github/minkjs/mink.base?targetFile=package.json)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
+## Usage
+
+Clone the repo for a feature.
+
+```shell
+git clone git@github.com/minkjs/mink.base mink.core.feature-name
+```
+
+Clone the repo for a plugin.
+
+```shell
+git clone git@github.com/minkjs/mink.base mink.plugin.feature-name
+```
+
 ## Testing Tools
 
 Testing tools for this project are:
