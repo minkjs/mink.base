@@ -1,8 +1,10 @@
 # Mink Base
 
-This base repository serves as the platform for all core-modules and plugins. 
+> This base repository serves as the platform for all core-modules and plugins. 
 
-[![Coverage Status](https://coveralls.io/repos/github/minkjs/mink.base/badge.svg?branch=changes)](https://coveralls.io/github/minkjs/mink.base?branch=changes)
+[![Build Status](https://travis-ci.org/minkjs/mink.base.svg?branch=master)](https://travis-ci.org/minkjs/mink.base)
+[![Coverage Status](https://coveralls.io/repos/github/minkjs/mink.base/badge.svg?branch=master)](https://coveralls.io/github/minkjs/mink.base?branch=master)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 ## Testing Tools
 
