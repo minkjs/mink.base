@@ -12,13 +12,13 @@
 Clone the repo for a feature.
 
 ```shell
-git clone git@github.com/minkjs/mink.base mink.core.feature-name
+git clone git@github.com:minkjs/mink.base mink.core.feature-name
 ```
 
 Clone the repo for a plugin.
 
 ```shell
-git clone git@github.com/minkjs/mink.base mink.plugin.feature-name
+git clone git@github.com:minkjs/mink.base mink.plugin.feature-name
 ```
 
 ## Testing Tools
